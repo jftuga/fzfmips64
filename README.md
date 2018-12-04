@@ -3,7 +3,7 @@ fzf for the Linux mips64 architecture including Ubiquiti EdgeRouters
 
 This is a static binary for [fzf](https://github.com/junegunn/fzf) that will run on Ubiquiti EdgeRouters. 
 
-You *must* set the **FZF_DEFAULT_COMMAND** enviromnet variable before running fzf.
+You *must* set the **FZF_DEFAULT_COMMAND** environment variable before running fzf.
 
 ```
 
